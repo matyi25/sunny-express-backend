@@ -1,0 +1,8 @@
+{
+  "name": "sunny-express",
+  "description": "Project for Interaction Programming course",
+  "version": "0.0.0",
+  "homepage": "https://github.com/quimarnau/sunny-express",
+  "license": "MIT",
+  "private": true
+}
